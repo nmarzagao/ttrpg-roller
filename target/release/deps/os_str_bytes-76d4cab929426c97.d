@@ -1,0 +1,12 @@
+/home/nicolas/dice-roller/target/release/deps/os_str_bytes-76d4cab929426c97.rmeta: /home/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.5.0/src/lib.rs /home/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.5.0/src/common/mod.rs /home/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.5.0/src/common/raw.rs /home/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.5.0/src/iter.rs /home/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.5.0/src/pattern.rs /home/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.5.0/src/raw_str.rs
+
+/home/nicolas/dice-roller/target/release/deps/libos_str_bytes-76d4cab929426c97.rlib: /home/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.5.0/src/lib.rs /home/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.5.0/src/common/mod.rs /home/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.5.0/src/common/raw.rs /home/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.5.0/src/iter.rs /home/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.5.0/src/pattern.rs /home/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.5.0/src/raw_str.rs
+
+/home/nicolas/dice-roller/target/release/deps/os_str_bytes-76d4cab929426c97.d: /home/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.5.0/src/lib.rs /home/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.5.0/src/common/mod.rs /home/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.5.0/src/common/raw.rs /home/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.5.0/src/iter.rs /home/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.5.0/src/pattern.rs /home/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.5.0/src/raw_str.rs
+
+/home/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.5.0/src/lib.rs:
+/home/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.5.0/src/common/mod.rs:
+/home/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.5.0/src/common/raw.rs:
+/home/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.5.0/src/iter.rs:
+/home/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.5.0/src/pattern.rs:
+/home/nicolas/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.5.0/src/raw_str.rs:
