@@ -1,4 +1,4 @@
-# Dice Roller
+# TTRPG Dice Roller
 
 A simple TTRPG dice roller.
 
@@ -7,5 +7,5 @@ A simple TTRPG dice roller.
 Number of dice | d | Number of sides
 
 ```bash
-dice-roller 2d20 1d4
+ttrpg-dice-roller 2d20 1d4
 ```
